@@ -61,4 +61,10 @@ This will start the NestJS development server and make the API accessible at
 - Create multiple read replicas to handle read traffic
 - Use parameterized query so that database can make the execution plan more optimized
 
-   
+## Database Schema
+<a href="https://ibb.co.com/zXZ0n37"><img src="https://i.ibb.co.com/2vdfnzs/Corsult-Library-Manager-Database-Schema.png" alt="Corsult-Library-Manager-Database-Schema" border="0" /></a>
+
+## Postman 
+
+- Documentation: https://documenter.getpostman.com/view/24755006/2sAYJ7geja
+- Collection: https://api.postman.com/collections/24755006-363a1465-5b06-430e-9421-fb63d2ca8227?access_key=PMAT-01JGHYMGAX9Q0F7T9DWYVMRGVT
